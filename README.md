@@ -104,7 +104,7 @@ predicted_class = class_names[np.argmax(probs)]
 ## 🙋‍♀️ Author
 
 **Jeevika S** [GitHub - jeevika17](https://github.com/jeevika17)
-**Boomaswari S** [GitHub - Boomaswari](https://github.com/Boomaswari)
+**Vimalathithyan S C** [GitHub - Vimalathithyan S C]((https://github.com/SC-Vimalathithyan))
 ---
 
 
